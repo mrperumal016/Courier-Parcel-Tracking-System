@@ -1,0 +1,6 @@
+.git
+out
+release
+*.class
+*.log
+deploy

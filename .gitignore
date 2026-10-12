@@ -1,0 +1,25 @@
+# Java compiled files
+*.class
+
+# Build output
+out/
+target/
+
+# Generated executable files
+*.exe
+*.msi
+
+# IDE settings
+.vscode/
+.idea/
+
+# Java bundled runtime
+release/
+
+# OS files
+.DS_Store
+
+# Secrets
+.env
+.env.*
+secrets.properties
